@@ -2,6 +2,7 @@ class Solution {
 public:
     //general k digit product solution 
     int maxProduct(int n) {
+        if(n==0) return 0;
         int k=2; // here for question k==2
         priority_queue<int,vector<int> , greater<>> pq;
         while(n){
