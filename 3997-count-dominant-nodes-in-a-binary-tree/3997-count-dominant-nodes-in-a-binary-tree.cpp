@@ -12,6 +12,10 @@
 class Solution {
 public:
     int helper(TreeNode *node,int &count){
+        if(!node->right && !node->left){
+            count++;
+            return node->val;
+        }
         int rside=0,lside=0;
         if(node->right) rside=helper(node->right,count);
         if(node->left) lside=helper(node->left,count);
