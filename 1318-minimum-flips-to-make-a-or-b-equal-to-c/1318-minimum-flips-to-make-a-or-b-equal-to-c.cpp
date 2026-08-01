@@ -7,11 +7,10 @@ public:
             int y=(b>>i) & 1;
             int r=(c>>i) & 1;
             if(r==0){
-                if(x==1) count++;
-                if(y==1) count++;
+                count+=x+y;
             }
             else{
-                if(x==0 and y==0) count++;
+                if(!(x+y)) count++;
             }
         }
         return count;
