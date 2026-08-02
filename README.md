@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0152-maximum-product-subarray](https://github.com/Kxt-R/Leetcode/tree/master/0152-maximum-product-subarray) |
 | [0416-partition-equal-subset-sum](https://github.com/Kxt-R/Leetcode/tree/master/0416-partition-equal-subset-sum) |
 | [0514-freedom-trail](https://github.com/Kxt-R/Leetcode/tree/master/0514-freedom-trail) |
+| [0877-stone-game](https://github.com/Kxt-R/Leetcode/tree/master/0877-stone-game) |
 | [0918-maximum-sum-circular-subarray](https://github.com/Kxt-R/Leetcode/tree/master/0918-maximum-sum-circular-subarray) |
 | [1043-partition-array-for-maximum-sum](https://github.com/Kxt-R/Leetcode/tree/master/1043-partition-array-for-maximum-sum) |
 | [1049-last-stone-weight-ii](https://github.com/Kxt-R/Leetcode/tree/master/1049-last-stone-weight-ii) |
@@ -27,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0152-maximum-product-subarray](https://github.com/Kxt-R/Leetcode/tree/master/0152-maximum-product-subarray) |
 | [0416-partition-equal-subset-sum](https://github.com/Kxt-R/Leetcode/tree/master/0416-partition-equal-subset-sum) |
+| [0877-stone-game](https://github.com/Kxt-R/Leetcode/tree/master/0877-stone-game) |
 | [0918-maximum-sum-circular-subarray](https://github.com/Kxt-R/Leetcode/tree/master/0918-maximum-sum-circular-subarray) |
 | [1043-partition-array-for-maximum-sum](https://github.com/Kxt-R/Leetcode/tree/master/1043-partition-array-for-maximum-sum) |
 | [1049-last-stone-weight-ii](https://github.com/Kxt-R/Leetcode/tree/master/1049-last-stone-weight-ii) |
@@ -36,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Kxt-R/Leetcode/tree/master/0002-add-two-numbers) |
+| [0877-stone-game](https://github.com/Kxt-R/Leetcode/tree/master/0877-stone-game) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/Kxt-R/Leetcode/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/Kxt-R/Leetcode/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3536-maximum-product-of-two-digits](https://github.com/Kxt-R/Leetcode/tree/master/3536-maximum-product-of-two-digits) |
@@ -73,4 +76,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Kxt-R/Leetcode/tree/master/0002-add-two-numbers) |
+## Game Theory
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/Kxt-R/Leetcode/tree/master/0877-stone-game) |
 <!---LeetCode Topics End-->
