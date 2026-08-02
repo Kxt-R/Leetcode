@@ -18,6 +18,7 @@ public:
         return false;
     }
     bool canPartitionKSubsets(vector<int>& nums, int k) {
+        memset(visited,false,sizeof visited);
         int total=accumulate(nums.begin(),nums.end(),0);
         if(total%k!=0) return false;
         target=total/k;
