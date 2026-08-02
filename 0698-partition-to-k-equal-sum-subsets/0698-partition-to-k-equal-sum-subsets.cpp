@@ -8,15 +8,14 @@ public:
 
         if(sum>target or idx>=v.size()) return false;
 
-        bool nt=run(idx+1,sum,k,v);
-        bool take=false;
+        if(run(idx+1,sum,k,v)) return true;
         if(!visited[idx]) {
             visited[idx]=true;
-            take=run(idx+1,sum+v[idx],k,v);
+            if(run(idx+1,sum+v[idx],k,v)) return true;
             visited[idx]=false;
         }
         
-        return nt|take;
+        return false;
     }
     bool canPartitionKSubsets(vector<int>& nums, int k) {
         int total=accumulate(nums.begin(),nums.end(),0);
