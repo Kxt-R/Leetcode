@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0152-maximum-product-subarray](https://github.com/Kxt-R/Leetcode/tree/master/0152-maximum-product-subarray) |
+| [0279-perfect-squares](https://github.com/Kxt-R/Leetcode/tree/master/0279-perfect-squares) |
 | [0322-coin-change](https://github.com/Kxt-R/Leetcode/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/Kxt-R/Leetcode/tree/master/0416-partition-equal-subset-sum) |
 | [0514-freedom-trail](https://github.com/Kxt-R/Leetcode/tree/master/0514-freedom-trail) |
@@ -26,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0279-perfect-squares](https://github.com/Kxt-R/Leetcode/tree/master/0279-perfect-squares) |
 | [0322-coin-change](https://github.com/Kxt-R/Leetcode/tree/master/0322-coin-change) |
 | [0514-freedom-trail](https://github.com/Kxt-R/Leetcode/tree/master/0514-freedom-trail) |
 ## Array
@@ -49,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Kxt-R/Leetcode/tree/master/0002-add-two-numbers) |
+| [0279-perfect-squares](https://github.com/Kxt-R/Leetcode/tree/master/0279-perfect-squares) |
 | [0877-stone-game](https://github.com/Kxt-R/Leetcode/tree/master/0877-stone-game) |
 | [1406-stone-game-iii](https://github.com/Kxt-R/Leetcode/tree/master/1406-stone-game-iii) |
 | [1686-stone-game-vi](https://github.com/Kxt-R/Leetcode/tree/master/1686-stone-game-vi) |
@@ -138,11 +141,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Knapsack Problem
 |  |
 | ------- |
+| [0279-perfect-squares](https://github.com/Kxt-R/Leetcode/tree/master/0279-perfect-squares) |
 | [0322-coin-change](https://github.com/Kxt-R/Leetcode/tree/master/0322-coin-change) |
 | [0518-coin-change-ii](https://github.com/Kxt-R/Leetcode/tree/master/0518-coin-change-ii) |
 ## Complete Knapsack
 |  |
 | ------- |
+| [0279-perfect-squares](https://github.com/Kxt-R/Leetcode/tree/master/0279-perfect-squares) |
 | [0322-coin-change](https://github.com/Kxt-R/Leetcode/tree/master/0322-coin-change) |
 | [0518-coin-change-ii](https://github.com/Kxt-R/Leetcode/tree/master/0518-coin-change-ii) |
 <!---LeetCode Topics End-->
