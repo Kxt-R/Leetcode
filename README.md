@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1043-partition-array-for-maximum-sum](https://github.com/Kxt-R/Leetcode/tree/master/1043-partition-array-for-maximum-sum) |
 | [1049-last-stone-weight-ii](https://github.com/Kxt-R/Leetcode/tree/master/1049-last-stone-weight-ii) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/Kxt-R/Leetcode/tree/master/1385-find-the-distance-value-between-two-arrays) |
+| [1386-cinema-seat-allocation](https://github.com/Kxt-R/Leetcode/tree/master/1386-cinema-seat-allocation) |
 | [1406-stone-game-iii](https://github.com/Kxt-R/Leetcode/tree/master/1406-stone-game-iii) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/Kxt-R/Leetcode/tree/master/1588-sum-of-all-odd-length-subarrays) |
 | [1686-stone-game-vi](https://github.com/Kxt-R/Leetcode/tree/master/1686-stone-game-vi) |
@@ -73,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Kxt-R/Leetcode/tree/master/0268-missing-number) |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/Kxt-R/Leetcode/tree/master/0698-partition-to-k-equal-sum-subsets) |
 | [1318-minimum-flips-to-make-a-or-b-equal-to-c](https://github.com/Kxt-R/Leetcode/tree/master/1318-minimum-flips-to-make-a-or-b-equal-to-c) |
+| [1386-cinema-seat-allocation](https://github.com/Kxt-R/Leetcode/tree/master/1386-cinema-seat-allocation) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/Kxt-R/Leetcode/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/Kxt-R/Leetcode/tree/master/3514-number-of-unique-xor-triplets-ii) |
 ## Enumeration
@@ -137,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [1386-cinema-seat-allocation](https://github.com/Kxt-R/Leetcode/tree/master/1386-cinema-seat-allocation) |
 | [1686-stone-game-vi](https://github.com/Kxt-R/Leetcode/tree/master/1686-stone-game-vi) |
 ## Heap (Priority Queue)
 |  |
@@ -147,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0268-missing-number](https://github.com/Kxt-R/Leetcode/tree/master/0268-missing-number) |
 | [0904-fruit-into-baskets](https://github.com/Kxt-R/Leetcode/tree/master/0904-fruit-into-baskets) |
+| [1386-cinema-seat-allocation](https://github.com/Kxt-R/Leetcode/tree/master/1386-cinema-seat-allocation) |
 ## Sliding Window
 |  |
 | ------- |
