@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0918-maximum-sum-circular-subarray](https://github.com/Kxt-R/Leetcode/tree/master/0918-maximum-sum-circular-subarray) |
 | [1043-partition-array-for-maximum-sum](https://github.com/Kxt-R/Leetcode/tree/master/1043-partition-array-for-maximum-sum) |
 | [1049-last-stone-weight-ii](https://github.com/Kxt-R/Leetcode/tree/master/1049-last-stone-weight-ii) |
+| [1346-check-if-n-and-its-double-exist](https://github.com/Kxt-R/Leetcode/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/Kxt-R/Leetcode/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1386-cinema-seat-allocation](https://github.com/Kxt-R/Leetcode/tree/master/1386-cinema-seat-allocation) |
 | [1406-stone-game-iii](https://github.com/Kxt-R/Leetcode/tree/master/1406-stone-game-iii) |
@@ -97,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/Kxt-R/Leetcode/tree/master/0268-missing-number) |
+| [1346-check-if-n-and-its-double-exist](https://github.com/Kxt-R/Leetcode/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/Kxt-R/Leetcode/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1686-stone-game-vi](https://github.com/Kxt-R/Leetcode/tree/master/1686-stone-game-vi) |
 | [3536-maximum-product-of-two-digits](https://github.com/Kxt-R/Leetcode/tree/master/3536-maximum-product-of-two-digits) |
@@ -151,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0268-missing-number](https://github.com/Kxt-R/Leetcode/tree/master/0268-missing-number) |
 | [0904-fruit-into-baskets](https://github.com/Kxt-R/Leetcode/tree/master/0904-fruit-into-baskets) |
+| [1346-check-if-n-and-its-double-exist](https://github.com/Kxt-R/Leetcode/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1386-cinema-seat-allocation](https://github.com/Kxt-R/Leetcode/tree/master/1386-cinema-seat-allocation) |
 ## Sliding Window
 |  |
@@ -175,12 +178,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [1346-check-if-n-and-its-double-exist](https://github.com/Kxt-R/Leetcode/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/Kxt-R/Leetcode/tree/master/1385-find-the-distance-value-between-two-arrays) |
 ## Binary Search
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/Kxt-R/Leetcode/tree/master/0035-search-insert-position) |
 | [0268-missing-number](https://github.com/Kxt-R/Leetcode/tree/master/0268-missing-number) |
+| [1346-check-if-n-and-its-double-exist](https://github.com/Kxt-R/Leetcode/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/Kxt-R/Leetcode/tree/master/1385-find-the-distance-value-between-two-arrays) |
 ## Prefix Sum
 |  |
