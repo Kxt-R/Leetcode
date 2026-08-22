@@ -6,13 +6,10 @@ public:
         if(arr[0]>k) return k;
         while(high>low){
             int mid=(high+low+1)/2;
-            cout<<low<<' '<<high<<' '<<mid<<'\n';
             if(arr[mid]-mid-1<k){
-                cout<<'h'<<'\n';
                 low=mid;
             }
             else{
-                cout<<'j'<<'\n';
                 high=mid-1;
             }
         }
