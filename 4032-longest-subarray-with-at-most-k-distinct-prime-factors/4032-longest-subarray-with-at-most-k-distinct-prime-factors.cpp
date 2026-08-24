@@ -17,7 +17,7 @@ public:
             if(x!=1) s.insert(x);
             primefac[i]=s;
         }
-        int ans=0,count=0;
+        int ans=0;
         int i=0,j=0;
         map<int,int> m;
         while(i<n and j<n){
@@ -33,15 +33,15 @@ public:
                         }
                         break;
                     } 
-                    count++;j++;
+                    j++;
                 }
-                ans=max(count,ans);
+                ans=max(j-i,ans);
                 while(i<n){
                     for(auto ele:primefac[i]){
                         m[ele]--;
                         if(m[ele]==0) m.erase(ele);
                     }
-                    count--;i++;
+                    i++;
                     if(m.size()<=k) break;
                 }
             }
@@ -49,7 +49,6 @@ public:
                 j++;
                 i=j;
                 m.clear();
-                count=0;
             }
         }
         return ans;
