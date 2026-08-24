@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1686-stone-game-vi](https://github.com/Kxt-R/Leetcode/tree/master/1686-stone-game-vi) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/Kxt-R/Leetcode/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/Kxt-R/Leetcode/tree/master/3514-number-of-unique-xor-triplets-ii) |
+| [4024-nearest-available-drone](https://github.com/Kxt-R/Leetcode/tree/master/4024-nearest-available-drone) |
 ## Math
 |  |
 | ------- |
@@ -88,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/Kxt-R/Leetcode/tree/master/3514-number-of-unique-xor-triplets-ii) |
+| [4024-nearest-available-drone](https://github.com/Kxt-R/Leetcode/tree/master/4024-nearest-available-drone) |
 ## Divide and Conquer
 |  |
 | ------- |
