@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1686-stone-game-vi](https://github.com/Kxt-R/Leetcode/tree/master/1686-stone-game-vi) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/Kxt-R/Leetcode/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/Kxt-R/Leetcode/tree/master/3514-number-of-unique-xor-triplets-ii) |
+| [3718-smallest-missing-multiple-of-k](https://github.com/Kxt-R/Leetcode/tree/master/3718-smallest-missing-multiple-of-k) |
 | [4024-nearest-available-drone](https://github.com/Kxt-R/Leetcode/tree/master/4024-nearest-available-drone) |
 ## Math
 |  |
@@ -165,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0904-fruit-into-baskets](https://github.com/Kxt-R/Leetcode/tree/master/0904-fruit-into-baskets) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/Kxt-R/Leetcode/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1386-cinema-seat-allocation](https://github.com/Kxt-R/Leetcode/tree/master/1386-cinema-seat-allocation) |
+| [3718-smallest-missing-multiple-of-k](https://github.com/Kxt-R/Leetcode/tree/master/3718-smallest-missing-multiple-of-k) |
 ## Sliding Window
 |  |
 | ------- |
