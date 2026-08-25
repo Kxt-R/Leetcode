@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/Kxt-R/Leetcode/tree/master/0020-valid-parentheses) |
 | [0514-freedom-trail](https://github.com/Kxt-R/Leetcode/tree/master/0514-freedom-trail) |
 | [0583-delete-operation-for-two-strings](https://github.com/Kxt-R/Leetcode/tree/master/0583-delete-operation-for-two-strings) |
 | [1143-longest-common-subsequence](https://github.com/Kxt-R/Leetcode/tree/master/1143-longest-common-subsequence) |
@@ -227,9 +228,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/Kxt-R/Leetcode/tree/master/0020-valid-parentheses) |
 | [0496-next-greater-element-i](https://github.com/Kxt-R/Leetcode/tree/master/0496-next-greater-element-i) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/Kxt-R/Leetcode/tree/master/0496-next-greater-element-i) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/Kxt-R/Leetcode/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
