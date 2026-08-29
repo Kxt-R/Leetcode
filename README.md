@@ -77,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/Kxt-R/Leetcode/tree/master/0002-add-two-numbers) |
 | [0268-missing-number](https://github.com/Kxt-R/Leetcode/tree/master/0268-missing-number) |
 | [0279-perfect-squares](https://github.com/Kxt-R/Leetcode/tree/master/0279-perfect-squares) |
+| [0779-k-th-symbol-in-grammar](https://github.com/Kxt-R/Leetcode/tree/master/0779-k-th-symbol-in-grammar) |
 | [0877-stone-game](https://github.com/Kxt-R/Leetcode/tree/master/0877-stone-game) |
 | [1406-stone-game-iii](https://github.com/Kxt-R/Leetcode/tree/master/1406-stone-game-iii) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/Kxt-R/Leetcode/tree/master/1588-sum-of-all-odd-length-subarrays) |
@@ -91,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0090-subsets-ii](https://github.com/Kxt-R/Leetcode/tree/master/0090-subsets-ii) |
 | [0268-missing-number](https://github.com/Kxt-R/Leetcode/tree/master/0268-missing-number) |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/Kxt-R/Leetcode/tree/master/0698-partition-to-k-equal-sum-subsets) |
+| [0779-k-th-symbol-in-grammar](https://github.com/Kxt-R/Leetcode/tree/master/0779-k-th-symbol-in-grammar) |
 | [1318-minimum-flips-to-make-a-or-b-equal-to-c](https://github.com/Kxt-R/Leetcode/tree/master/1318-minimum-flips-to-make-a-or-b-equal-to-c) |
 | [1386-cinema-seat-allocation](https://github.com/Kxt-R/Leetcode/tree/master/1386-cinema-seat-allocation) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/Kxt-R/Leetcode/tree/master/3513-number-of-unique-xor-triplets-i) |
@@ -128,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Kxt-R/Leetcode/tree/master/0002-add-two-numbers) |
+| [0779-k-th-symbol-in-grammar](https://github.com/Kxt-R/Leetcode/tree/master/0779-k-th-symbol-in-grammar) |
 ## Game Theory
 |  |
 | ------- |
