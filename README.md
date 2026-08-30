@@ -73,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3513-number-of-unique-xor-triplets-i](https://github.com/Kxt-R/Leetcode/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/Kxt-R/Leetcode/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Kxt-R/Leetcode/tree/master/3718-smallest-missing-multiple-of-k) |
+| [3987-minimum-total-cost-to-process-all-elements](https://github.com/Kxt-R/Leetcode/tree/master/3987-minimum-total-cost-to-process-all-elements) |
 | [4024-nearest-available-drone](https://github.com/Kxt-R/Leetcode/tree/master/4024-nearest-available-drone) |
 | [4025-minimize-the-maximum-waiting-time-at-synchronized-traffic-lights](https://github.com/Kxt-R/Leetcode/tree/master/4025-minimize-the-maximum-waiting-time-at-synchronized-traffic-lights) |
 ## Math
@@ -92,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3536-maximum-product-of-two-digits](https://github.com/Kxt-R/Leetcode/tree/master/3536-maximum-product-of-two-digits) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/Kxt-R/Leetcode/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3986-number-of-elapsed-seconds-between-two-times](https://github.com/Kxt-R/Leetcode/tree/master/3986-number-of-elapsed-seconds-between-two-times) |
+| [3987-minimum-total-cost-to-process-all-elements](https://github.com/Kxt-R/Leetcode/tree/master/3987-minimum-total-cost-to-process-all-elements) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -276,6 +278,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/Kxt-R/Leetcode/tree/master/1823-find-the-winner-of-the-circular-game) |
+| [3987-minimum-total-cost-to-process-all-elements](https://github.com/Kxt-R/Leetcode/tree/master/3987-minimum-total-cost-to-process-all-elements) |
 ## Pigeonhole Principle
 |  |
 | ------- |
