@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/Kxt-R/Leetcode/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/Kxt-R/Leetcode/tree/master/0022-generate-parentheses) |
 | [0131-palindrome-partitioning](https://github.com/Kxt-R/Leetcode/tree/master/0131-palindrome-partitioning) |
+| [0241-different-ways-to-add-parentheses](https://github.com/Kxt-R/Leetcode/tree/master/0241-different-ways-to-add-parentheses) |
 | [0514-freedom-trail](https://github.com/Kxt-R/Leetcode/tree/master/0514-freedom-trail) |
 | [0583-delete-operation-for-two-strings](https://github.com/Kxt-R/Leetcode/tree/master/0583-delete-operation-for-two-strings) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Kxt-R/Leetcode/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
@@ -19,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/Kxt-R/Leetcode/tree/master/0022-generate-parentheses) |
 | [0131-palindrome-partitioning](https://github.com/Kxt-R/Leetcode/tree/master/0131-palindrome-partitioning) |
 | [0152-maximum-product-subarray](https://github.com/Kxt-R/Leetcode/tree/master/0152-maximum-product-subarray) |
+| [0241-different-ways-to-add-parentheses](https://github.com/Kxt-R/Leetcode/tree/master/0241-different-ways-to-add-parentheses) |
 | [0279-perfect-squares](https://github.com/Kxt-R/Leetcode/tree/master/0279-perfect-squares) |
 | [0322-coin-change](https://github.com/Kxt-R/Leetcode/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/Kxt-R/Leetcode/tree/master/0416-partition-equal-subset-sum) |
@@ -86,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Kxt-R/Leetcode/tree/master/0002-add-two-numbers) |
+| [0241-different-ways-to-add-parentheses](https://github.com/Kxt-R/Leetcode/tree/master/0241-different-ways-to-add-parentheses) |
 | [0268-missing-number](https://github.com/Kxt-R/Leetcode/tree/master/0268-missing-number) |
 | [0279-perfect-squares](https://github.com/Kxt-R/Leetcode/tree/master/0279-perfect-squares) |
 | [0779-k-th-symbol-in-grammar](https://github.com/Kxt-R/Leetcode/tree/master/0779-k-th-symbol-in-grammar) |
@@ -149,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Kxt-R/Leetcode/tree/master/0002-add-two-numbers) |
+| [0241-different-ways-to-add-parentheses](https://github.com/Kxt-R/Leetcode/tree/master/0241-different-ways-to-add-parentheses) |
 | [0779-k-th-symbol-in-grammar](https://github.com/Kxt-R/Leetcode/tree/master/0779-k-th-symbol-in-grammar) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/Kxt-R/Leetcode/tree/master/1823-find-the-winner-of-the-circular-game) |
 ## Game Theory
@@ -170,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Memoization
 |  |
 | ------- |
+| [0241-different-ways-to-add-parentheses](https://github.com/Kxt-R/Leetcode/tree/master/0241-different-ways-to-add-parentheses) |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/Kxt-R/Leetcode/tree/master/0698-partition-to-k-equal-sum-subsets) |
 ## Bitmask
 |  |
@@ -284,6 +289,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/Kxt-R/Leetcode/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/Kxt-R/Leetcode/tree/master/0022-generate-parentheses) |
+| [0241-different-ways-to-add-parentheses](https://github.com/Kxt-R/Leetcode/tree/master/0241-different-ways-to-add-parentheses) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Kxt-R/Leetcode/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 ## Simulation
 |  |
