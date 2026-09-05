@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/Kxt-R/Leetcode/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/Kxt-R/Leetcode/tree/master/0022-generate-parentheses) |
 | [0131-palindrome-partitioning](https://github.com/Kxt-R/Leetcode/tree/master/0131-palindrome-partitioning) |
+| [0139-word-break](https://github.com/Kxt-R/Leetcode/tree/master/0139-word-break) |
 | [0241-different-ways-to-add-parentheses](https://github.com/Kxt-R/Leetcode/tree/master/0241-different-ways-to-add-parentheses) |
 | [0514-freedom-trail](https://github.com/Kxt-R/Leetcode/tree/master/0514-freedom-trail) |
 | [0583-delete-operation-for-two-strings](https://github.com/Kxt-R/Leetcode/tree/master/0583-delete-operation-for-two-strings) |
@@ -19,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0022-generate-parentheses](https://github.com/Kxt-R/Leetcode/tree/master/0022-generate-parentheses) |
 | [0131-palindrome-partitioning](https://github.com/Kxt-R/Leetcode/tree/master/0131-palindrome-partitioning) |
+| [0139-word-break](https://github.com/Kxt-R/Leetcode/tree/master/0139-word-break) |
 | [0152-maximum-product-subarray](https://github.com/Kxt-R/Leetcode/tree/master/0152-maximum-product-subarray) |
 | [0241-different-ways-to-add-parentheses](https://github.com/Kxt-R/Leetcode/tree/master/0241-different-ways-to-add-parentheses) |
 | [0279-perfect-squares](https://github.com/Kxt-R/Leetcode/tree/master/0279-perfect-squares) |
@@ -54,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0041-first-missing-positive](https://github.com/Kxt-R/Leetcode/tree/master/0041-first-missing-positive) |
 | [0046-permutations](https://github.com/Kxt-R/Leetcode/tree/master/0046-permutations) |
 | [0090-subsets-ii](https://github.com/Kxt-R/Leetcode/tree/master/0090-subsets-ii) |
+| [0139-word-break](https://github.com/Kxt-R/Leetcode/tree/master/0139-word-break) |
 | [0152-maximum-product-subarray](https://github.com/Kxt-R/Leetcode/tree/master/0152-maximum-product-subarray) |
 | [0228-summary-ranges](https://github.com/Kxt-R/Leetcode/tree/master/0228-summary-ranges) |
 | [0238-product-of-array-except-self](https://github.com/Kxt-R/Leetcode/tree/master/0238-product-of-array-except-self) |
@@ -180,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Memoization
 |  |
 | ------- |
+| [0139-word-break](https://github.com/Kxt-R/Leetcode/tree/master/0139-word-break) |
 | [0241-different-ways-to-add-parentheses](https://github.com/Kxt-R/Leetcode/tree/master/0241-different-ways-to-add-parentheses) |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/Kxt-R/Leetcode/tree/master/0698-partition-to-k-equal-sum-subsets) |
 ## Bitmask
@@ -213,6 +217,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Kxt-R/Leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0037-sudoku-solver](https://github.com/Kxt-R/Leetcode/tree/master/0037-sudoku-solver) |
 | [0041-first-missing-positive](https://github.com/Kxt-R/Leetcode/tree/master/0041-first-missing-positive) |
+| [0139-word-break](https://github.com/Kxt-R/Leetcode/tree/master/0139-word-break) |
 | [0268-missing-number](https://github.com/Kxt-R/Leetcode/tree/master/0268-missing-number) |
 | [0496-next-greater-element-i](https://github.com/Kxt-R/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0904-fruit-into-baskets](https://github.com/Kxt-R/Leetcode/tree/master/0904-fruit-into-baskets) |
@@ -325,4 +330,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/Kxt-R/Leetcode/tree/master/0037-sudoku-solver) |
+## Trie
+|  |
+| ------- |
+| [0139-word-break](https://github.com/Kxt-R/Leetcode/tree/master/0139-word-break) |
+## Brute-Force Search
+|  |
+| ------- |
+| [0139-word-break](https://github.com/Kxt-R/Leetcode/tree/master/0139-word-break) |
 <!---LeetCode Topics End-->
