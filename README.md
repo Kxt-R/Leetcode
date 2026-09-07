@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0241-different-ways-to-add-parentheses](https://github.com/Kxt-R/Leetcode/tree/master/0241-different-ways-to-add-parentheses) |
 | [0514-freedom-trail](https://github.com/Kxt-R/Leetcode/tree/master/0514-freedom-trail) |
 | [0583-delete-operation-for-two-strings](https://github.com/Kxt-R/Leetcode/tree/master/0583-delete-operation-for-two-strings) |
+| [0940-distinct-subsequences-ii](https://github.com/Kxt-R/Leetcode/tree/master/0940-distinct-subsequences-ii) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Kxt-R/Leetcode/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1143-longest-common-subsequence](https://github.com/Kxt-R/Leetcode/tree/master/1143-longest-common-subsequence) |
 | [3986-number-of-elapsed-seconds-between-two-times](https://github.com/Kxt-R/Leetcode/tree/master/3986-number-of-elapsed-seconds-between-two-times) |
@@ -32,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/Kxt-R/Leetcode/tree/master/0698-partition-to-k-equal-sum-subsets) |
 | [0877-stone-game](https://github.com/Kxt-R/Leetcode/tree/master/0877-stone-game) |
 | [0918-maximum-sum-circular-subarray](https://github.com/Kxt-R/Leetcode/tree/master/0918-maximum-sum-circular-subarray) |
+| [0940-distinct-subsequences-ii](https://github.com/Kxt-R/Leetcode/tree/master/0940-distinct-subsequences-ii) |
 | [1043-partition-array-for-maximum-sum](https://github.com/Kxt-R/Leetcode/tree/master/1043-partition-array-for-maximum-sum) |
 | [1049-last-stone-weight-ii](https://github.com/Kxt-R/Leetcode/tree/master/1049-last-stone-weight-ii) |
 | [1143-longest-common-subsequence](https://github.com/Kxt-R/Leetcode/tree/master/1143-longest-common-subsequence) |
