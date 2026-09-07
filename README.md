@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0040-combination-sum-ii](https://github.com/Kxt-R/Leetcode/tree/master/0040-combination-sum-ii) |
 | [0041-first-missing-positive](https://github.com/Kxt-R/Leetcode/tree/master/0041-first-missing-positive) |
 | [0046-permutations](https://github.com/Kxt-R/Leetcode/tree/master/0046-permutations) |
+| [0047-permutations-ii](https://github.com/Kxt-R/Leetcode/tree/master/0047-permutations-ii) |
 | [0090-subsets-ii](https://github.com/Kxt-R/Leetcode/tree/master/0090-subsets-ii) |
 | [0139-word-break](https://github.com/Kxt-R/Leetcode/tree/master/0139-word-break) |
 | [0152-maximum-product-subarray](https://github.com/Kxt-R/Leetcode/tree/master/0152-maximum-product-subarray) |
@@ -151,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0047-permutations-ii](https://github.com/Kxt-R/Leetcode/tree/master/0047-permutations-ii) |
 | [0268-missing-number](https://github.com/Kxt-R/Leetcode/tree/master/0268-missing-number) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/Kxt-R/Leetcode/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/Kxt-R/Leetcode/tree/master/1385-find-the-distance-value-between-two-arrays) |
@@ -182,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0039-combination-sum](https://github.com/Kxt-R/Leetcode/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/Kxt-R/Leetcode/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/Kxt-R/Leetcode/tree/master/0046-permutations) |
+| [0047-permutations-ii](https://github.com/Kxt-R/Leetcode/tree/master/0047-permutations-ii) |
 | [0090-subsets-ii](https://github.com/Kxt-R/Leetcode/tree/master/0090-subsets-ii) |
 | [0131-palindrome-partitioning](https://github.com/Kxt-R/Leetcode/tree/master/0131-palindrome-partitioning) |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/Kxt-R/Leetcode/tree/master/0698-partition-to-k-equal-sum-subsets) |
