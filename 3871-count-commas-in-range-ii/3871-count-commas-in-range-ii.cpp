@@ -3,7 +3,7 @@ public:
     long long countCommas(long long n) {
         long long ans=0;
         long long lower=1000;
-        unsigned long long upper;
+        long long upper;
         long long k=0;
         while(1){
             if(n<lower) break;
