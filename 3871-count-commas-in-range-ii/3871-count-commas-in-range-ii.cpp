@@ -9,12 +9,8 @@ public:
             if(n<lower) break;
             upper=1000*lower;
             k++;
-            if(n<upper){
-                ans+=k*(n-lower+1);
-            }
-            else{
-                ans+=k*(upper-lower);
-            }
+            if(n<upper) ans+=k*(n-lower+1);
+            else ans+=k*(upper-lower);
             lower*=1000;
         }
         return ans;
