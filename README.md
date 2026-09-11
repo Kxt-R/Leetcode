@@ -88,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1539-kth-missing-positive-number](https://github.com/Kxt-R/Leetcode/tree/master/1539-kth-missing-positive-number) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/Kxt-R/Leetcode/tree/master/1588-sum-of-all-odd-length-subarrays) |
 | [1686-stone-game-vi](https://github.com/Kxt-R/Leetcode/tree/master/1686-stone-game-vi) |
+| [1720-decode-xored-array](https://github.com/Kxt-R/Leetcode/tree/master/1720-decode-xored-array) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/Kxt-R/Leetcode/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [2596-check-knight-tour-configuration](https://github.com/Kxt-R/Leetcode/tree/master/2596-check-knight-tour-configuration) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Kxt-R/Leetcode/tree/master/3483-unique-3-digit-even-numbers) |
@@ -136,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0779-k-th-symbol-in-grammar](https://github.com/Kxt-R/Leetcode/tree/master/0779-k-th-symbol-in-grammar) |
 | [1318-minimum-flips-to-make-a-or-b-equal-to-c](https://github.com/Kxt-R/Leetcode/tree/master/1318-minimum-flips-to-make-a-or-b-equal-to-c) |
 | [1386-cinema-seat-allocation](https://github.com/Kxt-R/Leetcode/tree/master/1386-cinema-seat-allocation) |
+| [1720-decode-xored-array](https://github.com/Kxt-R/Leetcode/tree/master/1720-decode-xored-array) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/Kxt-R/Leetcode/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/Kxt-R/Leetcode/tree/master/3514-number-of-unique-xor-triplets-ii) |
 ## Enumeration
