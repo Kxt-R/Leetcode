@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/Kxt-R/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0322-coin-change](https://github.com/Kxt-R/Leetcode/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/Kxt-R/Leetcode/tree/master/0416-partition-equal-subset-sum) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/Kxt-R/Leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0496-next-greater-element-i](https://github.com/Kxt-R/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0518-coin-change-ii](https://github.com/Kxt-R/Leetcode/tree/master/0518-coin-change-ii) |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/Kxt-R/Leetcode/tree/master/0698-partition-to-k-equal-sum-subsets) |
@@ -157,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0047-permutations-ii](https://github.com/Kxt-R/Leetcode/tree/master/0047-permutations-ii) |
 | [0268-missing-number](https://github.com/Kxt-R/Leetcode/tree/master/0268-missing-number) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/Kxt-R/Leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/Kxt-R/Leetcode/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/Kxt-R/Leetcode/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1686-stone-game-vi](https://github.com/Kxt-R/Leetcode/tree/master/1686-stone-game-vi) |
@@ -230,6 +232,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0041-first-missing-positive](https://github.com/Kxt-R/Leetcode/tree/master/0041-first-missing-positive) |
 | [0139-word-break](https://github.com/Kxt-R/Leetcode/tree/master/0139-word-break) |
 | [0268-missing-number](https://github.com/Kxt-R/Leetcode/tree/master/0268-missing-number) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/Kxt-R/Leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0496-next-greater-element-i](https://github.com/Kxt-R/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0771-jewels-and-stones](https://github.com/Kxt-R/Leetcode/tree/master/0771-jewels-and-stones) |
 | [0904-fruit-into-baskets](https://github.com/Kxt-R/Leetcode/tree/master/0904-fruit-into-baskets) |
