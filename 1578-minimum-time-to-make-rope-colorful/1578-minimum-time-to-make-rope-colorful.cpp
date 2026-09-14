@@ -3,17 +3,14 @@ public:
     int minCost(string colors, vector<int>& v) {
         int sum,cost=0,mx;
         int n=colors.size();
-        bool flag;
         for(int i=1;i<n;++i){
-            flag=0;
             sum=v[i-1],mx=v[i-1];
             while(i<n and colors[i]==colors[i-1]){
-                flag=1;
                 sum+=v[i];
                 mx=max(mx,v[i]);
                 i++;
             }
-            if(flag){
+            if(sum!=v[i-1]){
                 cost+=sum-mx;
             }
         }
