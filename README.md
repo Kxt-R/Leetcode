@@ -75,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/Kxt-R/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0518-coin-change-ii](https://github.com/Kxt-R/Leetcode/tree/master/0518-coin-change-ii) |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/Kxt-R/Leetcode/tree/master/0698-partition-to-k-equal-sum-subsets) |
+| [0835-image-overlap](https://github.com/Kxt-R/Leetcode/tree/master/0835-image-overlap) |
 | [0877-stone-game](https://github.com/Kxt-R/Leetcode/tree/master/0877-stone-game) |
 | [0904-fruit-into-baskets](https://github.com/Kxt-R/Leetcode/tree/master/0904-fruit-into-baskets) |
 | [0918-maximum-sum-circular-subarray](https://github.com/Kxt-R/Leetcode/tree/master/0918-maximum-sum-circular-subarray) |
@@ -347,6 +348,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/Kxt-R/Leetcode/tree/master/0037-sudoku-solver) |
+| [0835-image-overlap](https://github.com/Kxt-R/Leetcode/tree/master/0835-image-overlap) |
 | [2596-check-knight-tour-configuration](https://github.com/Kxt-R/Leetcode/tree/master/2596-check-knight-tour-configuration) |
 ## Algorithm X
 |  |
