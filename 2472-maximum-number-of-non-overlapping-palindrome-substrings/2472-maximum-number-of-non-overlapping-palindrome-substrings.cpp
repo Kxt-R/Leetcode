@@ -15,7 +15,7 @@ public:
         if(flag){
             return dp[i][j]=1+solve(j+1,j+k,s,k);
         }
-        return dp[i][j]=max(solve(i+1,j,s,k),solve(i,j+1,s,k));
+        return dp[i][j]=max(solve(i,j+1,s,k),solve(i+1,j+1,s,k));
     }
     int maxPalindromes(string s, int k) {
         memset(dp,-1,sizeof(dp));
