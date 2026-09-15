@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Kxt-R/Leetcode/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1143-longest-common-subsequence](https://github.com/Kxt-R/Leetcode/tree/master/1143-longest-common-subsequence) |
 | [1578-minimum-time-to-make-rope-colorful](https://github.com/Kxt-R/Leetcode/tree/master/1578-minimum-time-to-make-rope-colorful) |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Kxt-R/Leetcode/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3986-number-of-elapsed-seconds-between-two-times](https://github.com/Kxt-R/Leetcode/tree/master/3986-number-of-elapsed-seconds-between-two-times) |
 ## Dynamic Programming
 |  |
@@ -41,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1143-longest-common-subsequence](https://github.com/Kxt-R/Leetcode/tree/master/1143-longest-common-subsequence) |
 | [1406-stone-game-iii](https://github.com/Kxt-R/Leetcode/tree/master/1406-stone-game-iii) |
 | [1578-minimum-time-to-make-rope-colorful](https://github.com/Kxt-R/Leetcode/tree/master/1578-minimum-time-to-make-rope-colorful) |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Kxt-R/Leetcode/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -231,6 +233,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1386-cinema-seat-allocation](https://github.com/Kxt-R/Leetcode/tree/master/1386-cinema-seat-allocation) |
 | [1578-minimum-time-to-make-rope-colorful](https://github.com/Kxt-R/Leetcode/tree/master/1578-minimum-time-to-make-rope-colorful) |
 | [1686-stone-game-vi](https://github.com/Kxt-R/Leetcode/tree/master/1686-stone-game-vi) |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Kxt-R/Leetcode/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [4025-minimize-the-maximum-waiting-time-at-synchronized-traffic-lights](https://github.com/Kxt-R/Leetcode/tree/master/4025-minimize-the-maximum-waiting-time-at-synchronized-traffic-lights) |
 ## Heap (Priority Queue)
 |  |
@@ -280,6 +283,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/Kxt-R/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/Kxt-R/Leetcode/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/Kxt-R/Leetcode/tree/master/1385-find-the-distance-value-between-two-arrays) |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Kxt-R/Leetcode/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 ## Binary Search
 |  |
 | ------- |
