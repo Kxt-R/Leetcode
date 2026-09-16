@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1143-longest-common-subsequence](https://github.com/Kxt-R/Leetcode/tree/master/1143-longest-common-subsequence) |
 | [1406-stone-game-iii](https://github.com/Kxt-R/Leetcode/tree/master/1406-stone-game-iii) |
 | [1578-minimum-time-to-make-rope-colorful](https://github.com/Kxt-R/Leetcode/tree/master/1578-minimum-time-to-make-rope-colorful) |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Kxt-R/Leetcode/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Kxt-R/Leetcode/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 ## Depth-First Search
 |  |
@@ -120,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/Kxt-R/Leetcode/tree/master/0877-stone-game) |
 | [1406-stone-game-iii](https://github.com/Kxt-R/Leetcode/tree/master/1406-stone-game-iii) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/Kxt-R/Leetcode/tree/master/1588-sum-of-all-odd-length-subarrays) |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Kxt-R/Leetcode/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1686-stone-game-vi](https://github.com/Kxt-R/Leetcode/tree/master/1686-stone-game-vi) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/Kxt-R/Leetcode/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/Kxt-R/Leetcode/tree/master/3513-number-of-unique-xor-triplets-i) |
@@ -299,6 +301,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/Kxt-R/Leetcode/tree/master/0238-product-of-array-except-self) |
 | [1480-running-sum-of-1d-array](https://github.com/Kxt-R/Leetcode/tree/master/1480-running-sum-of-1d-array) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/Kxt-R/Leetcode/tree/master/1588-sum-of-all-odd-length-subarrays) |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Kxt-R/Leetcode/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [3903-smallest-stable-index-i](https://github.com/Kxt-R/Leetcode/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/Kxt-R/Leetcode/tree/master/3904-smallest-stable-index-ii) |
 ## Tree
@@ -378,4 +381,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0836-rectangle-overlap](https://github.com/Kxt-R/Leetcode/tree/master/0836-rectangle-overlap) |
+## Combinatorics
+|  |
+| ------- |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Kxt-R/Leetcode/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 <!---LeetCode Topics End-->
