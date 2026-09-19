@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0940-distinct-subsequences-ii](https://github.com/Kxt-R/Leetcode/tree/master/0940-distinct-subsequences-ii) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Kxt-R/Leetcode/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1143-longest-common-subsequence](https://github.com/Kxt-R/Leetcode/tree/master/1143-longest-common-subsequence) |
+| [1422-maximum-score-after-splitting-a-string](https://github.com/Kxt-R/Leetcode/tree/master/1422-maximum-score-after-splitting-a-string) |
 | [1578-minimum-time-to-make-rope-colorful](https://github.com/Kxt-R/Leetcode/tree/master/1578-minimum-time-to-make-rope-colorful) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Kxt-R/Leetcode/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3986-number-of-elapsed-seconds-between-two-times](https://github.com/Kxt-R/Leetcode/tree/master/3986-number-of-elapsed-seconds-between-two-times) |
@@ -305,6 +306,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/Kxt-R/Leetcode/tree/master/0238-product-of-array-except-self) |
+| [1422-maximum-score-after-splitting-a-string](https://github.com/Kxt-R/Leetcode/tree/master/1422-maximum-score-after-splitting-a-string) |
 | [1480-running-sum-of-1d-array](https://github.com/Kxt-R/Leetcode/tree/master/1480-running-sum-of-1d-array) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/Kxt-R/Leetcode/tree/master/1588-sum-of-all-odd-length-subarrays) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Kxt-R/Leetcode/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
