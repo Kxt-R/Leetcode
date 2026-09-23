@@ -20,7 +20,6 @@ public:
                 break;
             }
         }
-        cout<<k<<'\n';
         for(int i=n-1;i>=0;--i){
             sum+=nums[i];
             while(k>=0 and sum>x){
@@ -29,7 +28,6 @@ public:
             if(sum==x and i>k) ans=min(ans,n-i+k+1);
             if(sum>x) break;
         }
-        cout<<"f"<<ans<<'\n';
         return (ans==INT_MAX) ? -1 : ans;
     }
 };
