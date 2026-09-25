@@ -5,8 +5,6 @@ public:
         set<string> res = parseExpr(expression, idx);
         return vector<string>(res.begin(), res.end());
     }
-
-private:
     set<string> parseExpr(const string& s, int& idx) {
         set<string> res;
         while (idx < s.length() && s[idx] != '}') {
