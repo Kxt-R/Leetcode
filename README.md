@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1143-longest-common-subsequence](https://github.com/Kxt-R/Leetcode/tree/master/1143-longest-common-subsequence) |
 | [1422-maximum-score-after-splitting-a-string](https://github.com/Kxt-R/Leetcode/tree/master/1422-maximum-score-after-splitting-a-string) |
 | [1578-minimum-time-to-make-rope-colorful](https://github.com/Kxt-R/Leetcode/tree/master/1578-minimum-time-to-make-rope-colorful) |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Kxt-R/Leetcode/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Kxt-R/Leetcode/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3498-reverse-degree-of-a-string](https://github.com/Kxt-R/Leetcode/tree/master/3498-reverse-degree-of-a-string) |
 | [3986-number-of-elapsed-seconds-between-two-times](https://github.com/Kxt-R/Leetcode/tree/master/3986-number-of-elapsed-seconds-between-two-times) |
@@ -103,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Kxt-R/Leetcode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1686-stone-game-vi](https://github.com/Kxt-R/Leetcode/tree/master/1686-stone-game-vi) |
 | [1720-decode-xored-array](https://github.com/Kxt-R/Leetcode/tree/master/1720-decode-xored-array) |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Kxt-R/Leetcode/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/Kxt-R/Leetcode/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [2596-check-knight-tour-configuration](https://github.com/Kxt-R/Leetcode/tree/master/2596-check-knight-tour-configuration) |
 | [3224-minimum-array-changes-to-make-differences-equal](https://github.com/Kxt-R/Leetcode/tree/master/3224-minimum-array-changes-to-make-differences-equal) |
@@ -270,6 +272,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1386-cinema-seat-allocation](https://github.com/Kxt-R/Leetcode/tree/master/1386-cinema-seat-allocation) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Kxt-R/Leetcode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Kxt-R/Leetcode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Kxt-R/Leetcode/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [3224-minimum-array-changes-to-make-differences-equal](https://github.com/Kxt-R/Leetcode/tree/master/3224-minimum-array-changes-to-make-differences-equal) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Kxt-R/Leetcode/tree/master/3483-unique-3-digit-even-numbers) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Kxt-R/Leetcode/tree/master/3718-smallest-missing-multiple-of-k) |
