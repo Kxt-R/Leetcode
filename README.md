@@ -134,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0241-different-ways-to-add-parentheses](https://github.com/Kxt-R/Leetcode/tree/master/0241-different-ways-to-add-parentheses) |
 | [0268-missing-number](https://github.com/Kxt-R/Leetcode/tree/master/0268-missing-number) |
 | [0279-perfect-squares](https://github.com/Kxt-R/Leetcode/tree/master/0279-perfect-squares) |
+| [0372-super-pow](https://github.com/Kxt-R/Leetcode/tree/master/0372-super-pow) |
 | [0779-k-th-symbol-in-grammar](https://github.com/Kxt-R/Leetcode/tree/master/0779-k-th-symbol-in-grammar) |
 | [0836-rectangle-overlap](https://github.com/Kxt-R/Leetcode/tree/master/0836-rectangle-overlap) |
 | [0877-stone-game](https://github.com/Kxt-R/Leetcode/tree/master/0877-stone-game) |
@@ -177,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0372-super-pow](https://github.com/Kxt-R/Leetcode/tree/master/0372-super-pow) |
 | [0918-maximum-sum-circular-subarray](https://github.com/Kxt-R/Leetcode/tree/master/0918-maximum-sum-circular-subarray) |
 ## Queue
 |  |
@@ -432,4 +434,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Kxt-R/Leetcode/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
+## Euler's Totient Function
+|  |
+| ------- |
+| [0372-super-pow](https://github.com/Kxt-R/Leetcode/tree/master/0372-super-pow) |
+## Euler's Theorem
+|  |
+| ------- |
+| [0372-super-pow](https://github.com/Kxt-R/Leetcode/tree/master/0372-super-pow) |
 <!---LeetCode Topics End-->
