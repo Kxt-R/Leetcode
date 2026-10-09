@@ -1,50 +1,38 @@
 class Solution {
-private:
-    bool isValid(const string& s) {
-        int balance = 0;
-        for (char c : s) {
-            if (c == '(') {
-                balance++;
-            } else if (c == ')') {
-                balance--;
-                if (balance < 0) return false;
-            }
-        }
-        return balance == 0;
-    }
-
 public:
-    vector<string> removeInvalidParentheses(string s) {
-        vector<string> result;
-        unordered_set<string> visited;
-        queue<string> q;
-
-        q.push(s);
-        visited.insert(s);
-        bool found = false;
-
-        while (!q.empty()) {
-            string curr = q.front();
-            q.pop();
-
-            if (isValid(curr)) {
-                result.push_back(curr);
-                found = true;
-            }
-
-            if (found) continue;
-
-            for (int i = 0; i < curr.length(); ++i) {
-                if (curr[i] != '(' && curr[i] != ')') continue;
-
-                string next_str = curr.substr(0, i) + curr.substr(i + 1);
-                if (visited.find(next_str) == visited.end()) {
-                    visited.insert(next_str);
-                    q.push(next_str);
+    void run(int idx,string &s,string &curr,int &maxlen,unordered_set<string> &st,int count){
+        if(count<0) return;
+        if(idx==s.size()){
+            if(count==0){
+                if(curr.size()>maxlen){
+                    maxlen=curr.size();
+                    st.clear();
                 }
+                if(curr.size()==maxlen) st.insert(curr);
             }
+            return;
         }
 
-        return result;
+
+        if(s[idx]!=')' and s[idx]!='('){
+            curr.push_back(s[idx]);
+            run(idx+1,s,curr,maxlen,st,count);
+            curr.pop_back();
+        }
+        else{
+            curr.push_back(s[idx]);
+            run(idx+1,s,curr,maxlen,st,count+(s[idx] == '(' ? 1 : -1));
+            curr.pop_back();
+            run(idx+1,s,curr,maxlen,st,count);
+        }
+    }
+    vector<string> removeInvalidParentheses(string s) {
+        unordered_set<string> st;
+        vector<string> ans;
+        string curr="";
+        int maxlen=0;
+        run(0,s,curr,maxlen,st,0);
+        for(auto ele:st) ans.push_back(ele);
+        return ans;
     }
 };
