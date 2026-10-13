@@ -20,8 +20,7 @@ public:
             v[i]+=s[i]-'a';
             v[i]=((v[i]%26)+26)%26;
         }
-        string ans="";
-        for(int i=0;i<n;++i) ans.push_back('a'+v[i]);
-        return ans;
+        for(int i=0;i<n;++i) s[i]=('a'+v[i]);
+        return s;
     }
 };
