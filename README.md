@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1578-minimum-time-to-make-rope-colorful](https://github.com/Kxt-R/Leetcode/tree/master/1578-minimum-time-to-make-rope-colorful) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Kxt-R/Leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Kxt-R/Leetcode/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
+| [2381-shifting-letters-ii](https://github.com/Kxt-R/Leetcode/tree/master/2381-shifting-letters-ii) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Kxt-R/Leetcode/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3498-reverse-degree-of-a-string](https://github.com/Kxt-R/Leetcode/tree/master/3498-reverse-degree-of-a-string) |
 | [3986-number-of-elapsed-seconds-between-two-times](https://github.com/Kxt-R/Leetcode/tree/master/3986-number-of-elapsed-seconds-between-two-times) |
@@ -121,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1823-find-the-winner-of-the-circular-game](https://github.com/Kxt-R/Leetcode/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Kxt-R/Leetcode/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/Kxt-R/Leetcode/tree/master/2333-minimum-sum-of-squared-difference) |
+| [2381-shifting-letters-ii](https://github.com/Kxt-R/Leetcode/tree/master/2381-shifting-letters-ii) |
 | [2596-check-knight-tour-configuration](https://github.com/Kxt-R/Leetcode/tree/master/2596-check-knight-tour-configuration) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/Kxt-R/Leetcode/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/Kxt-R/Leetcode/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
@@ -360,6 +362,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/Kxt-R/Leetcode/tree/master/1588-sum-of-all-odd-length-subarrays) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Kxt-R/Leetcode/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Kxt-R/Leetcode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
+| [2381-shifting-letters-ii](https://github.com/Kxt-R/Leetcode/tree/master/2381-shifting-letters-ii) |
 | [3224-minimum-array-changes-to-make-differences-equal](https://github.com/Kxt-R/Leetcode/tree/master/3224-minimum-array-changes-to-make-differences-equal) |
 | [3903-smallest-stable-index-i](https://github.com/Kxt-R/Leetcode/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/Kxt-R/Leetcode/tree/master/3904-smallest-stable-index-ii) |
