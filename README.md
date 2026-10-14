@@ -128,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2778-sum-of-squares-of-special-elements](https://github.com/Kxt-R/Leetcode/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/Kxt-R/Leetcode/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [3224-minimum-array-changes-to-make-differences-equal](https://github.com/Kxt-R/Leetcode/tree/master/3224-minimum-array-changes-to-make-differences-equal) |
+| [3355-zero-array-transformation-i](https://github.com/Kxt-R/Leetcode/tree/master/3355-zero-array-transformation-i) |
 | [3356-zero-array-transformation-ii](https://github.com/Kxt-R/Leetcode/tree/master/3356-zero-array-transformation-ii) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Kxt-R/Leetcode/tree/master/3483-unique-3-digit-even-numbers) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/Kxt-R/Leetcode/tree/master/3513-number-of-unique-xor-triplets-i) |
@@ -370,6 +371,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Kxt-R/Leetcode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [2381-shifting-letters-ii](https://github.com/Kxt-R/Leetcode/tree/master/2381-shifting-letters-ii) |
 | [3224-minimum-array-changes-to-make-differences-equal](https://github.com/Kxt-R/Leetcode/tree/master/3224-minimum-array-changes-to-make-differences-equal) |
+| [3355-zero-array-transformation-i](https://github.com/Kxt-R/Leetcode/tree/master/3355-zero-array-transformation-i) |
 | [3356-zero-array-transformation-ii](https://github.com/Kxt-R/Leetcode/tree/master/3356-zero-array-transformation-ii) |
 | [3903-smallest-stable-index-i](https://github.com/Kxt-R/Leetcode/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/Kxt-R/Leetcode/tree/master/3904-smallest-stable-index-ii) |
