@@ -130,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/Kxt-R/Leetcode/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Kxt-R/Leetcode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [3224-minimum-array-changes-to-make-differences-equal](https://github.com/Kxt-R/Leetcode/tree/master/3224-minimum-array-changes-to-make-differences-equal) |
+| [3346-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/Kxt-R/Leetcode/tree/master/3346-maximum-frequency-of-an-element-after-performing-operations-i) |
 | [3355-zero-array-transformation-i](https://github.com/Kxt-R/Leetcode/tree/master/3355-zero-array-transformation-i) |
 | [3356-zero-array-transformation-ii](https://github.com/Kxt-R/Leetcode/tree/master/3356-zero-array-transformation-ii) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Kxt-R/Leetcode/tree/master/3483-unique-3-digit-even-numbers) |
@@ -221,6 +222,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/Kxt-R/Leetcode/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1686-stone-game-vi](https://github.com/Kxt-R/Leetcode/tree/master/1686-stone-game-vi) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/Kxt-R/Leetcode/tree/master/2333-minimum-sum-of-squared-difference) |
+| [3346-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/Kxt-R/Leetcode/tree/master/3346-maximum-frequency-of-an-element-after-performing-operations-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/Kxt-R/Leetcode/tree/master/3536-maximum-product-of-two-digits) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/Kxt-R/Leetcode/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Linked List
@@ -327,6 +329,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0904-fruit-into-baskets](https://github.com/Kxt-R/Leetcode/tree/master/0904-fruit-into-baskets) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Kxt-R/Leetcode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Kxt-R/Leetcode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
+| [3346-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/Kxt-R/Leetcode/tree/master/3346-maximum-frequency-of-an-element-after-performing-operations-i) |
 ## Knapsack Problem
 |  |
 | ------- |
@@ -366,6 +369,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1539-kth-missing-positive-number](https://github.com/Kxt-R/Leetcode/tree/master/1539-kth-missing-positive-number) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Kxt-R/Leetcode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/Kxt-R/Leetcode/tree/master/2333-minimum-sum-of-squared-difference) |
+| [3346-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/Kxt-R/Leetcode/tree/master/3346-maximum-frequency-of-an-element-after-performing-operations-i) |
 | [3356-zero-array-transformation-ii](https://github.com/Kxt-R/Leetcode/tree/master/3356-zero-array-transformation-ii) |
 ## Prefix Sum
 |  |
@@ -378,6 +382,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Kxt-R/Leetcode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [2381-shifting-letters-ii](https://github.com/Kxt-R/Leetcode/tree/master/2381-shifting-letters-ii) |
 | [3224-minimum-array-changes-to-make-differences-equal](https://github.com/Kxt-R/Leetcode/tree/master/3224-minimum-array-changes-to-make-differences-equal) |
+| [3346-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/Kxt-R/Leetcode/tree/master/3346-maximum-frequency-of-an-element-after-performing-operations-i) |
 | [3355-zero-array-transformation-i](https://github.com/Kxt-R/Leetcode/tree/master/3355-zero-array-transformation-i) |
 | [3356-zero-array-transformation-ii](https://github.com/Kxt-R/Leetcode/tree/master/3356-zero-array-transformation-ii) |
 | [3903-smallest-stable-index-i](https://github.com/Kxt-R/Leetcode/tree/master/3903-smallest-stable-index-i) |
