@@ -19,12 +19,11 @@ public:
         for(int i=1;i<2*range-1;++i){
             diff[i]+=diff[i-1];
         }
-        map<int,int> m;
+        vector<int> m(2*range,0);
         for(int i=0;i<n;++i) m[nums[i]]++;
         int ans=-1;
         for(int i=0;i<2*range-1;++i){
-            if(m.contains(i))ans=max(ans,min(diff[i],m[i]+numOperations));
-            else ans=max(ans,min(diff[i],numOperations));
+            ans=max(ans,min(diff[i],m[i]+numOperations));
         }
         return ans;
     }
