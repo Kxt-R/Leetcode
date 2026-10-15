@@ -8,21 +8,21 @@ public:
             int up=nums[i]+k;
             int low=nums[i]-k;
             if(up>=0 and low<0 ){
-                diff[up+1]--;
+                (up+1>range) ? diff[range-1]-- : diff[up+1]--;
                 diff[0]++;
             }
             else{
-                diff[up+1]--;
+                (up+1>range) ? diff[range-1]-- : diff[up+1]--;
                 diff[low]++;
             }
         }
-        for(int i=1;i<2*range-1;++i){
+        for(int i=1;i<range;++i){
             diff[i]+=diff[i-1];
         }
-        vector<int> m(2*range,0);
+        vector<int> m(range,0);
         for(int i=0;i<n;++i) m[nums[i]]++;
         int ans=-1;
-        for(int i=0;i<2*range-1;++i){
+        for(int i=0;i<range;++i){
             ans=max(ans,min(diff[i],m[i]+numOperations));
         }
         return ans;
