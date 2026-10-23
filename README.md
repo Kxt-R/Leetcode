@@ -140,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3483-unique-3-digit-even-numbers](https://github.com/Kxt-R/Leetcode/tree/master/3483-unique-3-digit-even-numbers) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/Kxt-R/Leetcode/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/Kxt-R/Leetcode/tree/master/3514-number-of-unique-xor-triplets-ii) |
+| [3644-maximum-k-to-sort-a-permutation](https://github.com/Kxt-R/Leetcode/tree/master/3644-maximum-k-to-sort-a-permutation) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Kxt-R/Leetcode/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/Kxt-R/Leetcode/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Kxt-R/Leetcode/tree/master/3875-construct-uniform-parity-array-i) |
@@ -194,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/Kxt-R/Leetcode/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/Kxt-R/Leetcode/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/Kxt-R/Leetcode/tree/master/3514-number-of-unique-xor-triplets-ii) |
+| [3644-maximum-k-to-sort-a-permutation](https://github.com/Kxt-R/Leetcode/tree/master/3644-maximum-k-to-sort-a-permutation) |
 ## Enumeration
 |  |
 | ------- |
