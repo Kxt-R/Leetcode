@@ -71,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0514-freedom-trail](https://github.com/Kxt-R/Leetcode/tree/master/0514-freedom-trail) |
 | [1254-number-of-closed-islands](https://github.com/Kxt-R/Leetcode/tree/master/1254-number-of-closed-islands) |
 | [2596-check-knight-tour-configuration](https://github.com/Kxt-R/Leetcode/tree/master/2596-check-knight-tour-configuration) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Kxt-R/Leetcode/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -81,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1096-brace-expansion-ii](https://github.com/Kxt-R/Leetcode/tree/master/1096-brace-expansion-ii) |
 | [1254-number-of-closed-islands](https://github.com/Kxt-R/Leetcode/tree/master/1254-number-of-closed-islands) |
 | [2596-check-knight-tour-configuration](https://github.com/Kxt-R/Leetcode/tree/master/2596-check-knight-tour-configuration) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Kxt-R/Leetcode/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Array
 |  |
 | ------- |
@@ -144,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3483-unique-3-digit-even-numbers](https://github.com/Kxt-R/Leetcode/tree/master/3483-unique-3-digit-even-numbers) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/Kxt-R/Leetcode/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/Kxt-R/Leetcode/tree/master/3514-number-of-unique-xor-triplets-ii) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Kxt-R/Leetcode/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/Kxt-R/Leetcode/tree/master/3644-maximum-k-to-sort-a-permutation) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Kxt-R/Leetcode/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/Kxt-R/Leetcode/tree/master/3727-maximum-alternating-sum-of-squares) |
@@ -480,6 +483,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1254-number-of-closed-islands](https://github.com/Kxt-R/Leetcode/tree/master/1254-number-of-closed-islands) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Kxt-R/Leetcode/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [2596-check-knight-tour-configuration](https://github.com/Kxt-R/Leetcode/tree/master/2596-check-knight-tour-configuration) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Kxt-R/Leetcode/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Algorithm X
 |  |
 | ------- |
@@ -527,4 +531,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1254-number-of-closed-islands](https://github.com/Kxt-R/Leetcode/tree/master/1254-number-of-closed-islands) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Kxt-R/Leetcode/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 <!---LeetCode Topics End-->
