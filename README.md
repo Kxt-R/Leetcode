@@ -109,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0322-coin-change](https://github.com/Kxt-R/Leetcode/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/Kxt-R/Leetcode/tree/master/0416-partition-equal-subset-sum) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Kxt-R/Leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Kxt-R/Leetcode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0496-next-greater-element-i](https://github.com/Kxt-R/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Kxt-R/Leetcode/tree/master/0503-next-greater-element-ii) |
 | [0518-coin-change-ii](https://github.com/Kxt-R/Leetcode/tree/master/0518-coin-change-ii) |
@@ -174,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Kxt-R/Leetcode/tree/master/0268-missing-number) |
 | [0279-perfect-squares](https://github.com/Kxt-R/Leetcode/tree/master/0279-perfect-squares) |
 | [0372-super-pow](https://github.com/Kxt-R/Leetcode/tree/master/0372-super-pow) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Kxt-R/Leetcode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0779-k-th-symbol-in-grammar](https://github.com/Kxt-R/Leetcode/tree/master/0779-k-th-symbol-in-grammar) |
 | [0836-rectangle-overlap](https://github.com/Kxt-R/Leetcode/tree/master/0836-rectangle-overlap) |
 | [0877-stone-game](https://github.com/Kxt-R/Leetcode/tree/master/0877-stone-game) |
@@ -242,6 +244,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0047-permutations-ii](https://github.com/Kxt-R/Leetcode/tree/master/0047-permutations-ii) |
 | [0268-missing-number](https://github.com/Kxt-R/Leetcode/tree/master/0268-missing-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Kxt-R/Leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Kxt-R/Leetcode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/Kxt-R/Leetcode/tree/master/0532-k-diff-pairs-in-an-array) |
 | [1096-brace-expansion-ii](https://github.com/Kxt-R/Leetcode/tree/master/1096-brace-expansion-ii) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/Kxt-R/Leetcode/tree/master/1346-check-if-n-and-its-double-exist) |
