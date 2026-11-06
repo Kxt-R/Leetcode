@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0022-generate-parentheses](https://github.com/Kxt-R/Leetcode/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/Kxt-R/Leetcode/tree/master/0032-longest-valid-parentheses) |
+| [0096-unique-binary-search-trees](https://github.com/Kxt-R/Leetcode/tree/master/0096-unique-binary-search-trees) |
 | [0131-palindrome-partitioning](https://github.com/Kxt-R/Leetcode/tree/master/0131-palindrome-partitioning) |
 | [0139-word-break](https://github.com/Kxt-R/Leetcode/tree/master/0139-word-break) |
 | [0152-maximum-product-subarray](https://github.com/Kxt-R/Leetcode/tree/master/0152-maximum-product-subarray) |
@@ -173,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Kxt-R/Leetcode/tree/master/0002-add-two-numbers) |
+| [0096-unique-binary-search-trees](https://github.com/Kxt-R/Leetcode/tree/master/0096-unique-binary-search-trees) |
 | [0241-different-ways-to-add-parentheses](https://github.com/Kxt-R/Leetcode/tree/master/0241-different-ways-to-add-parentheses) |
 | [0268-missing-number](https://github.com/Kxt-R/Leetcode/tree/master/0268-missing-number) |
 | [0279-perfect-squares](https://github.com/Kxt-R/Leetcode/tree/master/0279-perfect-squares) |
@@ -425,6 +427,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0096-unique-binary-search-trees](https://github.com/Kxt-R/Leetcode/tree/master/0096-unique-binary-search-trees) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/Kxt-R/Leetcode/tree/master/0703-kth-largest-element-in-a-stream) |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/Kxt-R/Leetcode/tree/master/3841-palindromic-path-queries-in-a-tree) |
 ## Design
@@ -434,10 +437,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search Tree
 |  |
 | ------- |
+| [0096-unique-binary-search-trees](https://github.com/Kxt-R/Leetcode/tree/master/0096-unique-binary-search-trees) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/Kxt-R/Leetcode/tree/master/0703-kth-largest-element-in-a-stream) |
 ## Binary Tree
 |  |
 | ------- |
+| [0096-unique-binary-search-trees](https://github.com/Kxt-R/Leetcode/tree/master/0096-unique-binary-search-trees) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/Kxt-R/Leetcode/tree/master/0703-kth-largest-element-in-a-stream) |
 ## Data Stream
 |  |
